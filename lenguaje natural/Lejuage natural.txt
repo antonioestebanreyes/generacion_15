@@ -1,0 +1,10 @@
+Problema:¿ Que tengo  que  hacer para ir  a jugar al campo?
+Resolucion del problema 
+1-Realizar todas las actividades que nos corresponde del dia
+2-Pedir permiso a nuestros padres
+3-Buscar con quien ir a jugar
+4-Establecer un ahorario para encontrarnos 
+5-Salir de casa
+6-Dirigirnos al lugar establecido(campo)
+7-Jugar
+Fin.........
